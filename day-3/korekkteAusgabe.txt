@@ -1,6 +1,0 @@
-Für 1 runter und 1 nach rechts, trifft man 74 Bäume
-Für 1 runter und 3 nach rechts, trifft man 189 Bäume
-Für 1 runter und 5 nach rechts, trifft man 65 Bäume
-Für 1 runter und 7 nach rechts, trifft man 63 Bäume
-Für 2 runter und 1 nach rechts, trifft man 30 Bäume
-Die Multiplikation dieser Werte ist: 1718180100
